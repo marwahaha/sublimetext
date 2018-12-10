@@ -28,18 +28,18 @@ Scope | Keyboard | Action
 Show Console | <kbd>ctrl</kbd> + <kbd>8</kbd> | show_panel
 Toggle Side Bar | <kbd>ctrl</kbd> + <kbd>k</kbd>, <kbd>ctrl</kbd> + <kbd>b</kbd> | toggle_side_bar
 Full-screen | <kbd>f11</kbd> | toggle_full_screen
-  | <kbd>shift</kbd> + <kbd>f11</kbd> | toggle_distraction_free
+<i></i> | <kbd>shift</kbd> + <kbd>f11</kbd> | toggle_distraction_free
 Layouts | <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>1</kbd> | set_layout
- <i></i> | <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>2</kbd> | set_layout
+<i></i> | <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>2</kbd> | set_layout
  | <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>3</kbd> | set_layout
 Groups | <kbd>ctrl</kbd> + <kbd>1</kbd> | focus_group
 <p></p>| <kbd>ctrl</kbd> + <kbd>2</kbd> | focus_group
-| <kbd>ctrl</kbd> + <kbd>3</kbd> | focus_group
-| <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>1</kbd> | move_to_group
-| <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>2</kbd> | move_to_group
-| <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>3</kbd> | move_to_group
+<i></i> | <kbd>ctrl</kbd> + <kbd>3</kbd> | focus_group
+<i></i> | <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>1</kbd> | move_to_group
+<i></i> | <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>2</kbd> | move_to_group
+<i></i> | <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>3</kbd> | move_to_group
 Panes | <kbd>ctrl</kbd> + <kbd>k</kbd>, <kbd>ctrl</kbd> + <kbd>up</kbd> | new_pane
-| <kbd>ctrl</kbd> + <kbd>k</kbd>, <kbd>ctrl</kbd> + <kbd>down</kbd> | close_pane
+<i></i> | <kbd>ctrl</kbd> + <kbd>k</kbd>, <kbd>ctrl</kbd> + <kbd>down</kbd> | close_pane
 Reveal current file in side-bar | <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>r</kbd> | reveal_in_side_bar<kbd>}
 Expand selection to line | <kbd>ctrl</kbd> + <kbd>l</kbd> | expand_selection
 Expand selection to scope | <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>space</kbd> | expand_selection
@@ -47,34 +47,34 @@ Expand selection to brackets | <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>m</kbd>
 Upper-case| <kbd>ctrl</kbd> + <kbd>k</kbd>, <kbd>ctrl</kbd> + <kbd>u</kbd> | upper_case
 Lower-case| <kbd>ctrl</kbd> + <kbd>k</kbd>, <kbd>ctrl</kbd> + <kbd>l</kbd> | lower_case
 Permutar líneas seleccionadas | <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>up</kbd> | swap_line_up
-| <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>down</kbd> | swap_line_down
+<i></i> | <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>down</kbd> | swap_line_down
 Juntar líneas | <kbd>ctrl</kbd> + <kbd>j</kbd> | join_lines
 Duplicar línea | <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>d</kbd> | duplicate_line
 Escribir en columna, en varias líneas a la vez | <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>up</kbd> | select_lines
-| <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>down</kbd> | select_lines
+<i></i> | <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>down</kbd> | select_lines
 Ordenar filas | <kbd>ctrl</kbd> + <kbd>f9</kbd> | sort_lines
 Wrap lines | <kbd>alt</kbd> + <kbd>q</kbd> | wrap_lines
 Toggle Comment| <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>q</kbd> | toggle_comment
-| <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>alt</kbd> + <kbd>q</kbd> | toggle_comment
+<i></i> | <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>alt</kbd> + <kbd>q</kbd> | toggle_comment
 GoTo show files | <kbd>ctrl</kbd> + <kbd>p</kbd> | show_overlay
 GoTo cursor back / foward | <kbd>alt</kbd> + <kbd>-</kbd> | jump_back
-| <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>-</kbd> | jump_forward
+<i></i> | <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>-</kbd> | jump_forward
 Find & Repalce| <kbd>ctrl</kbd> + <kbd>f</kbd> | show_panel
-| <kbd>ctrl</kbd> + <kbd>h</kbd> | show_panel
-| <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>h</kbd> | replace_next
-| <kbd>f3</kbd> | find_next
-| <kbd>shift</kbd> + <kbd>f3</kbd> | find_prev
+<i></i> | <kbd>ctrl</kbd> + <kbd>h</kbd> | show_panel
+<i></i> | <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>h</kbd> | replace_next
+<i></i> | <kbd>f3</kbd> | find_next
+<i></i> | <kbd>shift</kbd> + <kbd>f3</kbd> | find_prev
 Buscar ocurrencias, siguiente ocurrencia | <kbd>ctrl</kbd> + <kbd>d</kbd> | find_under_expand
-| <kbd>ctrl</kbd> + <kbd>k</kbd>, <kbd>ctrl</kbd> + <kbd>d</kbd> | find_under_expand_skip
-| <kbd>ctrl</kbd> + <kbd>u</kbd> | soft_undo
+<i></i> | <kbd>ctrl</kbd> + <kbd>k</kbd>, <kbd>ctrl</kbd> + <kbd>d</kbd> | find_under_expand_skip
+<i></i> | <kbd>ctrl</kbd> + <kbd>u</kbd> | soft_undo
 Bookmarks| <kbd>f2</kbd> | next_bookmark
-| <kbd>shift</kbd> + <kbd>f2</kbd> | prev_bookmark
-| <kbd>ctrl</kbd> + <kbd>f2</kbd> | toggle_bookmark
-| <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>f2</kbd> | clear_bookmarks
-| <kbd>alt</kbd> + <kbd>f2</kbd> | select_all_bookmarks
+<i></i> | <kbd>shift</kbd> + <kbd>f2</kbd> | prev_bookmark
+<i></i> | <kbd>ctrl</kbd> + <kbd>f2</kbd> | toggle_bookmark
+<i></i> | <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>f2</kbd> | clear_bookmarks
+<i></i> | <kbd>alt</kbd> + <kbd>f2</kbd> | select_all_bookmarks
 Collapse by level | <kbd>ctrl</kbd> + <kbd>k</kbd>, <kbd>ctrl</kbd> + <kbd>1</kbd> | fold_by_level
-| <kbd>ctrl</kbd> + <kbd>k</kbd>, <kbd>ctrl</kbd> + <kbd>2</kbd> | fold_by_level
-| <kbd>ctrl</kbd> + <kbd>k</kbd>, <kbd>ctrl</kbd> + <kbd>3</kbd> | fold_by_level
+<i></i> | <kbd>ctrl</kbd> + <kbd>k</kbd>, <kbd>ctrl</kbd> + <kbd>2</kbd> | fold_by_level
+<i></i> | <kbd>ctrl</kbd> + <kbd>k</kbd>, <kbd>ctrl</kbd> + <kbd>3</kbd> | fold_by_level
 Expand all | <kbd>ctrl</kbd> + <kbd>k</kbd>, <kbd>ctrl</kbd> + <kbd>0</kbd> | unfold_all
 
 
