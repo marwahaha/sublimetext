@@ -121,7 +121,7 @@ Language definitions for ES6+ JavaScript with React JSX syntax extensions.
 
 To set a key binding, go to `Preferences` > `Key Bindings - User` and add an entry like this:
 
-```perl
+```json
 {
     "keys": ["ctrl+shift+,"],
     "command": "insert_snippet",
@@ -144,7 +144,7 @@ Predawn is a dark interface and syntax theme for Sublime Text and Atom
 
 To activate the theme replace your current theme settings, go to `Preferences` > `Settings - User` and add this:
 
-```perl
+```json
 {
     "theme": "predawn-DEV.sublime-theme",
     "color_scheme": "Packages/Predawn/predawn.tmTheme",
@@ -185,7 +185,7 @@ Upload current file: <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>U</kbd> + <kbd>F</k
 
 `sftp-config.json`
 
-```perl
+```json
 {
     "type": "ftp",
 
@@ -293,9 +293,9 @@ Menu : `Tools` > `Develop` > `New snippet...`
 1. Nos situamos en un archivo del tipo que deseamos establecer, por ejemplo _my_scripts.js_
 1. Menu : `Preferences` > `Settings - More` > `Syntax Specific - User`
 1. Write the color-scheme for syntax highlight, exemple:
-```perl
+```json
 {
-	"color_scheme": "Packages/Color Scheme - Default/JavaScript.tmTheme"
+    "color_scheme": "Packages/Color Scheme - Default/JavaScript.tmTheme"
 }
 ```
 1. Se guarda en [/AppData/Roaming/Sublime Text 3/Packages/Color Scheme - Default/](file:///C:/Users/Jordi/AppData/Roaming/Sublime Text 3/Packages/Color Scheme - Default/)
