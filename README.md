@@ -138,7 +138,7 @@ To set a key binding, go to `Preferences` > `Key Bindings - User` and add an ent
 This linter plugin for SublimeLinter provides an interface to ESLint. It will be used with files that have the "javascript" syntax.
 
 
-##### [Predawn Theme](https://github.com/jamiewilson/predawn)
+##### [Predawn](https://github.com/jamiewilson/predawn)
 
 Predawn is a dark interface and syntax theme for Sublime Text and Atom
 
