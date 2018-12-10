@@ -258,7 +258,7 @@ A multi-platform color picker plugin. Usage: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> 
 
 Syntax for `Readme.md` files. See this [tutorial](https://github.com/jordhor/markdown).
 
-In order to avoid problems during loading syntax markdown with `JavaScriptNext - ES6 Syntax` disable markdown in `Preferences.sublime-settings - User`:
+In order to avoid problems with `JavaScriptNext - ES6 Syntax` during loading syntax, disable markdown in `Preferences.sublime-settings - User`:
 
 ```json
 {
