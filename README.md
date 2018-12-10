@@ -123,11 +123,11 @@ To set a key binding, go to `Preferences` > `Key Bindings - User` and add an ent
 
 ```json
 {
-	"keys": ["ctrl+shift+,"],
-	"command": "insert_snippet",
-	"args": {
-		"name": "Packages/Babel Snippets/react_wrap.sublime-snippet"
-	}
+    "keys": ["ctrl+shift+,"],
+    "command": "insert_snippet",
+    "args": {
+        "name": "Packages/Babel Snippets/react_wrap.sublime-snippet"
+    }
 }
 ```
 
@@ -146,21 +146,21 @@ To activate the theme replace your current theme settings, go to `Preferences` >
 
 ```json
 {
-	"theme": "predawn-DEV.sublime-theme",
-	"color_scheme": "Packages/Predawn/predawn.tmTheme",
-	"predawn_findreplace_small": true,
-	"predawn_quick_panel_small": true,
-	"predawn_sidebar_arrows": true,
-	"predawn_sidebar_large": false,
-	"predawn_sidebar_medium": false,
-	"predawn_sidebar_narrow": false,
-	"predawn_sidebar_small": true,
-	"predawn_sidebar_xlarge": false,
-	"predawn_sidebar_xsmall": false,
-	"predawn_tabs_active_underline": true,
-	"predawn_tabs_large": false,
-	"predawn_tabs_medium": false,
-	"predawn_tabs_small": true,
+    "theme": "predawn-DEV.sublime-theme",
+    "color_scheme": "Packages/Predawn/predawn.tmTheme",
+    "predawn_findreplace_small": true,
+    "predawn_quick_panel_small": true,
+    "predawn_sidebar_arrows": true,
+    "predawn_sidebar_large": false,
+    "predawn_sidebar_medium": false,
+    "predawn_sidebar_narrow": false,
+    "predawn_sidebar_small": true,
+    "predawn_sidebar_xlarge": false,
+    "predawn_sidebar_xsmall": false,
+    "predawn_tabs_active_underline": true,
+    "predawn_tabs_large": false,
+    "predawn_tabs_medium": false,
+    "predawn_tabs_small": true,
 }
 ```
 
