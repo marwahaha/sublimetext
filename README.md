@@ -28,12 +28,12 @@ Scope | Keyboard | Action
 Show Console | <kbd>ctrl</kbd> + <kbd>8</kbd> | show_panel
 Toggle Side Bar | <kbd>ctrl</kbd> + <kbd>k</kbd>, <kbd>ctrl</kbd> + <kbd>b</kbd> | toggle_side_bar
 Full-screen | <kbd>f11</kbd> | toggle_full_screen
-`` | <kbd>shift</kbd> + <kbd>f11</kbd> | toggle_distraction_free
+  | <kbd>shift</kbd> + <kbd>f11</kbd> | toggle_distraction_free
 Layouts | <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>1</kbd> | set_layout
- | <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>2</kbd> | set_layout
+ - | <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>2</kbd> | set_layout
  | <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>3</kbd> | set_layout
 Groups | <kbd>ctrl</kbd> + <kbd>1</kbd> | focus_group
-| <kbd>ctrl</kbd> + <kbd>2</kbd> | focus_group
+<p></p>| <kbd>ctrl</kbd> + <kbd>2</kbd> | focus_group
 | <kbd>ctrl</kbd> + <kbd>3</kbd> | focus_group
 | <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>1</kbd> | move_to_group
 | <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>2</kbd> | move_to_group
