@@ -31,7 +31,7 @@ Full-screen | <kbd>f11</kbd> | toggle_full_screen
 <i></i> | <kbd>shift</kbd> + <kbd>f11</kbd> | toggle_distraction_free
 Layouts | <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>1</kbd> | set_layout
 <i></i> | <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>2</kbd> | set_layout
- | <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>3</kbd> | set_layout
+<i></i> | <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>3</kbd> | set_layout
 Groups | <kbd>ctrl</kbd> + <kbd>1</kbd> | focus_group
 <p></p>| <kbd>ctrl</kbd> + <kbd>2</kbd> | focus_group
 <i></i> | <kbd>ctrl</kbd> + <kbd>3</kbd> | focus_group
