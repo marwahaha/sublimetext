@@ -20,7 +20,7 @@ Tutorials:
 
 Menu `Preferences` > `Key Bindings - Default`
 
-<i class="material-icons md-16">link</i> [Default (Windows).sublime-keymap](AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap)
+[Default (Windows).sublime-keymap](AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap)
 
 
 Scope | Keyboard | Action
