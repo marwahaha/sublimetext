@@ -33,7 +33,7 @@ Layouts | <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>1</kbd> | set_layout
 <i></i> | <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>2</kbd> | set_layout
 <i></i> | <kbd>alt</kbd> + <kbd>shift</kbd> + <kbd>3</kbd> | set_layout
 Groups | <kbd>ctrl</kbd> + <kbd>1</kbd> | focus_group
-<p></p>| <kbd>ctrl</kbd> + <kbd>2</kbd> | focus_group
+<i></i>| <kbd>ctrl</kbd> + <kbd>2</kbd> | focus_group
 <i></i> | <kbd>ctrl</kbd> + <kbd>3</kbd> | focus_group
 <i></i> | <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>1</kbd> | move_to_group
 <i></i> | <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>2</kbd> | move_to_group
