@@ -1,26 +1,3 @@
-<!-- Material.Design Icons set -->
-<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
-
-<style type="text/css">
-	p i.material-icons {
-		vertical-align: text-bottom;
-	}
-	/* Rules for sizing the icon. */
-	.material-icons.md-16 { font-size: 16px; }
-	.material-icons.md-18 { font-size: 18px; }
-	.material-icons.md-24 { font-size: 24px; }
-	.material-icons.md-36 { font-size: 36px; }
-	.material-icons.md-48 { font-size: 48px; }
-
-	.codehilite {
-		max-height: 700px;
-		overflow: hidden;
-		overflow-y: auto;
-	}
-
-	.markdown-body h5 { margin-top: 25px; margin-bottom: 10px; }
-</style>
-
 # Sublime Text 3
 
 [Keyboard shorcuts](#keyboard-shorcuts) | [Install packages](#packages) | [Snippets](#snippets) | [Color-scheme & Theme](#color-scheme-theme)
