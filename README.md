@@ -276,16 +276,26 @@ Preview and build your markdown files quickly in your web browser using Sublime 
 1. Type `Markdown Preview: Preview in Browser`
 
 
+##### [ SASS ](https://github.com/braver/SublimeSass)
+
+Sass and SCSS syntax for Sublime Text 
+
+- Includes completions for CSS properties and values, as well as relevant Sass functions.
+- Highlights code using up to date specifications for properties and values to help you catch typos.
+- Syntax highlighting should be very similar to CSS and LESS (which is maintained in parallel).
 
 <br />
+
+
 
 ## Snippets
 
 Menu : `Tools` > `Develop` > `New snippet...`
 
-
-
 <br />
+
+
+
 
 ##	Color-scheme & Theme
 
