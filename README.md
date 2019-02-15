@@ -104,6 +104,10 @@ Plugin that supports format (beautify) source code.
 Plugin to assist viewing and editing package resources.
 
 
+##### [PHP Syntax Checker](https://packagecontrol.io/packages/PHP Syntax Checker)
+
+When you save PHP file, perform syntax check of PHP
+
 ##### [Babel](https://github.com/babel/babel-sublime)
 
 Language definitions for ES6+ JavaScript with React JSX syntax extensions.
