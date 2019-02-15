@@ -104,7 +104,7 @@ Plugin that supports format (beautify) source code.
 Plugin to assist viewing and editing package resources.
 
 
-##### [PHP Syntax Checker](https://packagecontrol.io/packages/PHP Syntax Checker)
+##### [PHP Syntax Checker](https://packagecontrol.io/packages/PHP%20Syntax%20Checker)
 
 When you save PHP file, perform syntax check of PHP
 
