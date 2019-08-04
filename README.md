@@ -235,7 +235,7 @@ Shortcuts and menu entries for opening a terminal at the current file, or the cu
 
 Emmet is a plugin for many popular text editors which greatly improves HTML & CSS. (See [abbreviations](https://docs.emmet.io))
 
-Usage: expand abreviation typing <kbd>Ctrl</kbd> + <kbd>E</kbd>
+Usage: expand abbreviation typing <kbd>Ctrl</kbd> + <kbd>E</kbd>
 
 Example: `#page>div.logo+ul#navigation>li*5>a{Item $}`
 
